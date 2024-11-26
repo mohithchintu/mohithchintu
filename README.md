@@ -2,9 +2,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 - 🌱 I’m currently learning **graphql, hadoop**
-
-- 🤝 I’m looking for help with **marketing and network**
-
+  
 - 📫 How to reach me **konireddynagamohithreddy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
