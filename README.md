@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohith Reddy  
-  <img align="right" src="https://komarev.com/ghpvc/?username=mohithchintu&color=blue" alt="Profile Views" />
 </h1>
 <h3 align="center">A passionate software developer from India</h3>
 
