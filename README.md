@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohith Reddy</h1>
 <h3 align="center">A passionate software developer from India</h3>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mohithchintu&color=blue" alt="Profile Views" />
+</p>
 
 - 💼 Open to work, collaboration, and finding a job
   
 - 📫 How to reach me **konireddynagamohithreddy@gmail.com**
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohithchintu&color=blue" alt="Profile Views" />
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
