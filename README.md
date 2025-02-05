@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohith Reddy</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **graphql, hadoop**
+- 💼 Open to work, collaboration, and finding a job
   
 - 📫 How to reach me **konireddynagamohithreddy@gmail.com**
 
