@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohith Reddy</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<p>visitors: ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
-</p>
-<p>![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR_GITHUB_USERNAME/&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
-</p>
 
 - 💼 Open to work, collaboration, and finding a job
   
