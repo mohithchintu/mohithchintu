@@ -2,7 +2,7 @@
 </h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 💼 Open to work, collaboration, and finding a job  
+- 💼 Open to work and collaboration. 
 - 📫 How to reach me **konireddynagamohithreddy@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
